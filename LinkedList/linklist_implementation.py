@@ -85,7 +85,6 @@ class LinkedList:
         while temp:
             print(temp.data)
             temp = temp.next
-        print()
 
 
 if __name__ == '__main__':
